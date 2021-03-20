@@ -22,3 +22,8 @@ Essai de réseau de neurones :
 - learning curves
 
 Bon résultats sur la compétition à ce stade (1er).
+
+Notes perso: pas encore essayés en gridsearch
+-max_depth_trees (par defaut=6 donc de 1 à 5),   g
+-gamma=0 (loss reduction minilale pour splitter (1-3-10, 30),
+- tous learning rates entre 0 et 1 (pas 0.1), 
