@@ -2,6 +2,17 @@
 Compétition avec les données de l'Authorité des Marchés Financiers. 
 Il s'agit de détecter les traders haute fréquence (HFT).
 
+Code needs cleaning.
+
+###########################################################################
+
+HOW TO USE THIS?
+
+    download the dataset
+    launch the EDA and modeles files in a Jupyter environnement
+
+##############################################################################
+
 EDA :
 - visualisation des valeurs manquantes
 - étude de la distribution des variables
