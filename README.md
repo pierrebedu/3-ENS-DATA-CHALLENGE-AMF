@@ -1,3 +1,6 @@
+// needs cleaning. In progress//
+
+
 # competition-AMF
 Compétition avec les données de l'Authorité des Marchés Financiers. 
 Il s'agit de détecter les traders haute fréquence (HFT).
