@@ -24,7 +24,7 @@ Models file :
 - benchmark with different models (logistic regression, kNN, random forest, adaboost, xgboost)
 - learning curves
 - gridsearch et randomized search to optimize parameters
-- (catboost try)
+- (catboost attempt : still learning about this...)
 
 Neural network file : (attempt for fun in with keras) 
 - target encoding
