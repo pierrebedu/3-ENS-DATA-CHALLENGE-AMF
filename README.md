@@ -6,10 +6,9 @@ Predict the high frequency traders for "autorité des marchés financiers" insti
 
 HOW TO USE THIS?
 
-    - download the dataset
+    - download the dataset https://challengedata.ens.fr/participants/challenges/50/
     - launch the EDA and modeles files in a Jupyter environnement
-    -  informations on the challenge : https://challengedata.ens.fr/participants/challenges/50/
-
+   
 ##############################################################################
 
 EDA file :
