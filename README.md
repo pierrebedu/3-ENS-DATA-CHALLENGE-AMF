@@ -26,7 +26,7 @@ Models file :
 - gridsearch et randomized search to optimize parameters
 - (catboost attempt : still learning about this...)
 
-Neural network file : (attempt for fun in with keras) 
+Neural network file : (quick attempt for fun in with keras) 
 - target encoding
 - callbacks/ dense layers/ dropout/ batchnormalization attempts
 - learning curves
